@@ -1,0 +1,94 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 3rem 3rem;
+    flex-wrap: wrap;
+
+}
+
+h1{
+    text-align: center;
+    font-weight: 500;
+    margin: 2rem 0;
+    background: var(--bg-secondary-color);
+    color: rgb(247, 245, 245);
+    height: 3rem;
+    border-radius: 2rem;
+
+}
+
+.heading{
+    padding: 1rem 2rem;
+}
+
+.search{
+    margin: 2rem 2rem;
+}
+
+.header{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#card{
+    background-color: var(--bg-primary-color);
+}
+
+#card span{
+    content: "\00B0";
+      
+}
+
+.min-max-temp{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+#card-meta{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.press-humi{
+    display: flex;
+    margin-top: 1rem;
+    flex-direction : column;
+}
+
+.weather p{
+    font-weight:600;
+}
+
+.weather{
+    margin-top: 2rem;
+}
+
+.press-humi p{
+    font-weight:600;
+}
+
+.weather{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.card-meta{
+    font-weight:600;
+}
+
+
+/*======================= MEDIA QUERIES (MEDIUM DEVICES)=======================*/
+@media screen and (max-width: 1024px) {
+    .main{
+        flex-direction: column;
+    
+    }
+    
+}
+
+
+
