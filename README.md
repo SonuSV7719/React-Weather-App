@@ -1,5 +1,5 @@
 # ClimateVue: Weather WebApp
-
+![MongoDB API(https://myoctocat.com/assets/images/base-octocat.svg)](https://yourimageshare.com/ib/imMqnBYxC6)
 ### 1. To Run App locally on to your server follow below steps
 
 **Install All the dependencies using following command**
