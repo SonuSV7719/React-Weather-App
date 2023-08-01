@@ -1,5 +1,5 @@
 # ClimateVue: Weather WebApp
-![MongoDB API](https://yourimageshare.com/ib/imMqnBYxC6)
+
 ### 1. To Run App locally on to your server follow below steps
 
 **Install All the dependencies using following command**
