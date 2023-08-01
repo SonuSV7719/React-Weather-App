@@ -21,3 +21,9 @@ npm start
 
 ### Create .env file to store Openweather API - API key
 
+--> Environment Variable name should be same as given below
+
+```
+REACT_APP_API_KEY = YOUR_OPENWEATHER_API_KEY
+```
+
