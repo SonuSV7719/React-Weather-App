@@ -19,7 +19,7 @@ npm install
 npm start
 ```
 
-###3. Create .env file to store Openweather API - API key
+### 3. Create .env file to store Openweather API - API key
 
 **Environment Variable name should be same as given below:**
 
